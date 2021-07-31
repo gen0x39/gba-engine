@@ -1,0 +1,1 @@
+/home/gen0x39/private/gbadev/target/arm-none-eabi/release/lifegameboy: /home/gen0x39/private/gbadev/src/font.rs /home/gen0x39/private/gbadev/src/font_def.rs /home/gen0x39/private/gbadev/src/gba_color.rs /home/gen0x39/private/gbadev/src/graphics.rs /home/gen0x39/private/gbadev/src/io.rs /home/gen0x39/private/gbadev/src/main.rs /home/gen0x39/private/gbadev/src/rgb.rs
